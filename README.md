@@ -4,7 +4,7 @@
 
 - 🔭 I’m a researcher in deep learning and medical imaging. 
 - 🌱 I have published in leading international journals/conferences including Nature (Scientific Reports) and IEEE. 
-- 💬 Ask me about
+- 💬 Ask me about: Artificial Intelligence and Healthcare.
 
 - 📫 How to reach me: 
 <div id="badges">
