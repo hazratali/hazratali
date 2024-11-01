@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m a researcher in deep learning and medical imaging. 
-- 🌱 I have published in leading international journals/conferences including Nature (Scientific Reports) and IEEE. 
+- 🌱 I have published in leading international journals/conferences including IEEE Transactions on Image Processing, Nature (Scientific Reports) and IEEE CVPR workshops. 
 - 💬 Ask me about: Artificial Intelligence and Healthcare.
 
 - 📫 How to reach me: 
