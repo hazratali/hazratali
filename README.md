@@ -2,7 +2,8 @@
 
 
 
-- 🔭 I’m a researcher in deep learning and medical imaging. I teach at the University of Stirling, United Kingdom
+- 🔭 I’m a researcher in deep learning and medical imaging.
+- I teach at the University of Stirling, United Kingdom
 - 🌱 I have published in leading international journals/conferences including IEEE Transactions on Image Processing, Nature (Scientific Reports) and IEEE CVPR workshops. 
 - 💬 Ask me about: Artificial Intelligence and Healthcare.
 
@@ -15,4 +16,3 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
