@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m a researcher in deep learning and medical imaging. 
+- 🔭 I’m a researcher in deep learning and medical imaging. I teach at the University of Stirling, United Kingdom
 - 🌱 I have published in leading international journals/conferences including IEEE Transactions on Image Processing, Nature (Scientific Reports) and IEEE CVPR workshops. 
 - 💬 Ask me about: Artificial Intelligence and Healthcare.
 
